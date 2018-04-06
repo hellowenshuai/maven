@@ -2,5 +2,9 @@ Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
+
+This is branch bug.
+Git two push.
 this is the one push.
 this is the two push.
+
